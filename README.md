@@ -25,6 +25,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## "Programming" Languages
 
+- [ ] [Python](https://www.python.org/)
 - [x] [Javascript](https://www.javascript.com/)
   - [x] [Angular](https://angularjs.org/)
   - [x] [Angular 2](https://angular.io/)
