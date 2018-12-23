@@ -26,44 +26,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## "Programming" Languages
 
 - [ ] [Python](https://www.python.org/)
-- [x] [Javascript](https://www.javascript.com/)
-  - [x] [Angular](https://angularjs.org/)
-  - [x] [Angular 2](https://angular.io/)
-  - [x] [React](https://facebook.github.io/react/)
-  - [ ] [D3.js](http://d3js.org)
-  - [ ] [Vue.js](http://vuejs.org/)
 - [x] [Go](https://golang.org/)
 - [ ] [Groovy](http://www.groovy-lang.org/)
-- [x] [TypeScript](https://www.typescriptlang.org/)
-
-## Machine Learning
-- [x] [Concepts and Techniques](https://en.wikipedia.org/wiki/Machine_learning)
-  - [x] [Linear Classifiers](https://en.wikipedia.org/wiki/Linear_classifier)
-  - [x] [Bayesian Modelling](https://en.wikipedia.org/wiki/Bayesian_network)
-  - [x] [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
-  - [x] [Regression](https://www.coursera.org/learn/ml-regression)
-  - [x] [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-  - [ ] [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
-  - [ ] [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
-  - [ ] [Convolution Neural Networks](http://cs231n.github.io/neural-networks-case-study/)
-  - [ ] [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-  - [ ] [Deep Networks](https://en.wikipedia.org/wiki/Deep_learning)
-  - [x] [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-  - [ ] [Bidirectional Associative Memory](https://en.wikipedia.org/wiki/Bidirectional_associative_memory)
-  - [ ] [Long Short Time Memory](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  - [ ] [Hopfield Network](https://en.wikipedia.org/wiki/Hopfield_network)
-  - [ ] [Gaussian Mixture Models](http://scikit-learn.org/stable/modules/mixture.html)
-- [ ] Frameworks and Tools
-  - [ ] [Torch](http://torch.ch/)
-  - [ ] [Theano](https://github.com/Theano/Theano)
-  - [ ] [TensorFlow](https://www.tensorflow.org/)
-  - [ ] [APIs](https://www.codecademy.com/en/tracks/npr)
-  - [ ] [Natural Language Processing](http://www.nltk.org/)
-  - [ ] Extended Backus-Naur Form (EBNF)
-
-## Deep Learning
-
-- [ ] [Self-Driving-Cars](https://selfdrivingcars.mit.edu/)
 
 ## Artificial Intelligence
 
@@ -88,14 +52,15 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [Blockchain](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain)
 - [ ] [Bitcoin](https://bitcoin.org/en/developer-documentation)
 
-## Internet of Things
-- [ ] [IOT DIY projects](http://www.instructables.com/)
-- [ ] [WiFi Positioning](https://blog.rocketsoftware.com/2015/11/indoor-positioning-iot/)
-- [ ] [Arduino](https://www.arduino.cc/)
-- [ ] [ESP8266](http://www.esp8266.com/)
-- [ ] [Raspberry Pi](https://www.raspberrypi.org/)
-
 ## Human Languages
 - [ ] [German (Deutsch)](https://www.duolingo.com/course/de/en/Learn-German-Online)
 - [ ] [Spanish (Español)](https://www.duolingo.com/course/es/en/Learn-Spanish-Online)
 - [ ] [English (English)](https://www.duolingo.com/course/en/hu/Learn-English-Online)
+
+## Skills
+- [ ] [Swimming]
+- [ ] [Car Driving]
+- [ ] [Reading]
+  - [ ] Eleven Minutes
+  - [ ] The Alchemist
+- [ ] [Writing Journal]
