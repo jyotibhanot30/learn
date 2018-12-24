@@ -58,9 +58,9 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] [English (English)](https://www.duolingo.com/course/en/hu/Learn-English-Online)
 
 ## Skills
-- [ ] [Swimming]
-- [ ] [Car Driving]
-- [ ] [Reading]
+- [ ] Swimming
+- [ ] Car Driving
+- [ ] Reading
   - [ ] Eleven Minutes
   - [ ] The Alchemist
-- [ ] [Writing Journal]
+- [ ] Writing Journal
